@@ -1,3 +1,4 @@
 # Fingerprint based ATM System
-#All existing banking applications are authenticating users based on PIN NO or password but this technique is not secured so in propose online banking application we #are authenticating user based on his finger print.
+# All existing banking applications authenticate the users based on their PIN Number or Password but this technique is not secured.
+# So, in proposed Online Banking Application we are authenticating the user based on his/her finger print.
  
